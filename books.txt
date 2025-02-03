@@ -1,0 +1,21 @@
+100,Hayvan Çiftliği,George Orwell,F
+101,Satranç,Stefan Zweig,F
+102,Küçük Prens,Antoine De Saint Exupery,F
+103,1984,George Orwell,F
+105,Yabancı,Albert Camus,F
+106,Dönüşüm,Franz Kafka,F
+107,Olağanüstü Bir Gece,Stefan Zweig,F
+108,Sefiller,Victor Hugo,F
+109,Beyaz Zambaklar Ülkesi,Grigory Petrov,F
+110,Beyaz Diş,Jack London,F
+111,Vadideki Zambak,Honore De Balzac,F
+112,Insan Ne Ile Yaşar,Lev Tolstoy,T
+113,Büyük Umutlar,Charles Dickens,T
+114,Pal Sokağı Çocukları,Ferenc Molnar,F
+115,Sineklerin Tanrısı,William Golding,F
+116,Dünyanın Merkezine Yolculuk,Jules Verne,F
+117,Dava,Franz Kafka,F
+118,Don Kişot,Miguel De Cervantes,F
+119,Gazap Üzümleri,John Steinbeck,F
+104,Fareler Ve Insanlar,John Steinbeck,F
+120,Yaşlı Adam Ve Deniz,Ernest Hemingway,F
